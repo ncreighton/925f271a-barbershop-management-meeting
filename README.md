@@ -1,2 +1,28 @@
-# 925f271a-barbershop-management-meeting
-Stop losing track of what was decided in your barbershop meetings. This Notion template turns chaotic discussions into clear, actionable decisions.  This template solves the common problem of forgotten decisions and lack of follow-through in barbershop management. It's the best solution because it's tailored specifically for barbershop teams, with
+# Barbershop Management Meeting Notes and Decision Log Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28EfZhaDd4scf449rKd0k0c)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28EfZhaDd4scf449rKd0k0c)
+
